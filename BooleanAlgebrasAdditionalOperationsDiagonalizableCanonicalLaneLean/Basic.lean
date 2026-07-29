@@ -1,0 +1,2 @@
+import BooleanAlgebrasAdditionalOperationsDiagonalizableCanonicalLaneLean.GateLemmas
+import BooleanAlgebrasAdditionalOperationsDiagonalizableCanonicalLaneLean.FinalTheorem
